@@ -1,0 +1,13 @@
+body {
+    color:aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    color:blue;
+}
+ol {
+    font-size: 26px;
+}
+.second-element {
+    font-weight: 700;
+}
